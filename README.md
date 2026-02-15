@@ -2,19 +2,15 @@
 
 A fully responsive, personal developer portfolio website featuring a dark neon theme, pure CSS animations, and a modern UI. This project showcases skills, projects, and contact information without relying on JavaScript for functionality.
 
-![Portfolio Preview](https://via.placeholder.com/1200x600/1f242d/7cf03d?text=Portfolio+Home+Screen+Preview)
+## 📸 UI Screenshots
 
-## 📋 Table of Contents
+### Desktop View
 
-- [Features](#-features)
-- [UI Screenshots](#-ui-screenshots)
-- [Technologies Used](#-technologies-used)
-- [Installation](#-installation)
-- [Folder Structure](#-folder-structure)
-- [Customization](#-customization)
-- [Author](#-author)
-
----
+> _The landing page with the neon profile animation and typing text._
+> ![Home](./screen-shots/img-1.png)
+> ![skils](./screen-shots/img-2.png)
+> ![projects](./screen-shots/img-3.png)
+> ![contact&footer](./screen-shots/img-4.png)
 
 ## 🚀 Features
 
@@ -28,23 +24,6 @@ A fully responsive, personal developer portfolio website featuring a dark neon t
 - **Interactive Elements:** Hover effects on cards, buttons, and social icons.
 
 ---
-
-## 📸 UI Screenshots
-
-### Desktop View
-
-> _The landing page with the neon profile animation and typing text._
-> ![Desktop Home](https://via.placeholder.com/800x450/1f242d/7cf03d?text=Desktop+Home+View)
-
-### Mobile Responsive Menu
-
-> _A pure CSS hamburger menu that slides down on mobile devices._
-> ![Mobile Menu](https://via.placeholder.com/400x600/1f242d/7cf03d?text=Mobile+Menu+View)
-
-### Skills & Projects
-
-> _Grid layouts for showcasing technical stacks and project cards._
-> ![Projects Section](https://via.placeholder.com/800x450/1f242d/7cf03d?text=Projects+Grid+View)
 
 ---
 
@@ -63,5 +42,5 @@ Since this is a static website, no backend setup or package installation is requ
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/developer-portfolio.git](https://github.com/your-username/developer-portfolio.git)
+   git clone [https://github.com/skrm05/developer-portfolio-ui.git](https://github.com/skrm05/developer-portfolio-ui.git)
    ```
