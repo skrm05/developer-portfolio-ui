@@ -37,6 +37,9 @@ a {
   font-size: 30px;
   font-weight: 700;
 }
+.logo::first-letter {
+  color: #7cf03d;
+}
 
 .navbar ul {
   display: flex;
@@ -107,6 +110,7 @@ section {
   font-size: 32px;
   margin-top: 10px;
 }
+
 .hero-info h2 span {
   position: relative;
   display: inline-block;

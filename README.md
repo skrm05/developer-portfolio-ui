@@ -1,6 +1,8 @@
-# ⚡ Neon Developer Portfolio
+# ⚡ Developer Portfolio
 
 A fully responsive, personal developer portfolio website featuring a dark neon theme, pure CSS animations, and a modern UI. This project showcases skills, projects, and contact information without relying on JavaScript for functionality.
+
+![Portfolio Preview](https://skrm05.github.io/developer-portfolio-ui/)
 
 ## 📸 UI Screenshots
 
