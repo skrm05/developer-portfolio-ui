@@ -246,7 +246,7 @@ section {
   display: block;
   width: 85%;
   object-fit: cover;
-  top: 30px;
+  top: -150px;
   mix-blend-mode: lighten;
 }
 
